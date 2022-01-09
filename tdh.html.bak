@@ -1,0 +1,67 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="עיצוב.css">
+		<link rel="icon" href="std.png">
+		<title>
+		במה היא שונה מהחרדים?
+		</title>
+	</head>
+	
+	<body>
+		<div style="
+            height: 900px;
+            background-image: url('https://media.istockphoto.com/vectors/portrait-of-a-young-orthodox-jewish-man-wearing-traditional-hat-and-vector-id1221742002?k=20&m=1221742002&s=612x612&w=0&h=li-DKRUjeADbjjhX0DXmnrJGUBvNcE6ke_3QrFSkMxQ=') ;
+            background-repeat: repeat-x;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;">
+			
+			<div  style="background-color: rgba(255,255,255,0.5) ; height: 100%;";>
+				<h1 class="עבר">
+					במה אנחנו שונים מהחרדים?
+				</h1>
+				
+				<div >
+					<p class="עבר">
+						השוני בין הציונות הדתית לחרדים נובע בעיקר מן תפיסת הציונות הדתית שתקומת המדינה היא תחילת הגאולה ושחלק חשוב מאוד בעבודת ה' נמצא בעולם החומר.
+						מתוך כך ישנם כמה דברים שיש בהם שוני גדול בין רוב העולם הציוני דתי לרוב העולם החרדי: (זוהי הכללה ועל כן יש לה יוצאים מן הכלל)<br>
+						
+						1. רוב העולם הציוני דתי מתגייס לצהל <br>
+						2.  החרדים בדרך כלל לובשים חליפה וכובע ומתחת לכובע כיפה שחורה והציונים דתיים בדרך כלל לובשים כיפה סרוגה    
+						ללא חליפה וכובע .
+						הבדל זה כל כך סמלי עד שנהוג לכנות את הציבור הציוני דתי "כיפות סרוגות" . <br>
+						3. אצל הציבור החרדי נפוץ יותר מאשר בציבור הציוני דתי שאנשים בגילאי שוק העבודה רוב שעות היום לומדים תורה.<br>
+						4. הציבור החרדי יותר מקפיד על הפרדה בינו לבין שאר הציבור הישראלי בארץ על מנת לשמור על אווירה וסביבה חינוכית מותאמת לעבודת ה'.<br>
+						5. אצל הציבור החרדי יותר רווח וחזק החשש מן השינוי והפיתוח הטנולוגי פן הוא יפגע בדרך כלשהיא בעבודת ה' ושמירת המסורת. <br>
+					</p>
+				</div>
+				<div class="עבר" style="color:red; font-size: 40px";>
+					אז מה עוד ברצונך לדעת על הציונות הדתית?
+				</div>
+				
+				<p style="text-align:center";>
+					<a  class="כג"; href="tdmh.html" target="_blank"; style="text-align:center"; "background-color:yellow; ; border="25" >
+						?מהו מסלול חייו הרגיל של ציוני דתי
+					</a>
+				</p>
+				<p style="text-align:center";>
+					<a  class="כג"; href="tdmk.html" target="_blank"; style="text-align:center"; "background-color:yellow; ; border="25" >
+						מושגים קטנים שעושים סדר גדול
+					</a>
+				</p>
+				<p style="text-align:center";>
+					<a  class="כג"; href="tdz.html" target="_blank"; style="text-align:center"; "background-color:yellow; ; border="25" >
+						על זרמיה של הציונות הדתית
+					</a>
+				</p>
+				<p style="text-align:center";>
+					<a  class="כג"; href="mtd.html"  style="text-align:center"; "background-color:yellow; ; border="25" >
+						חזרה לדף הבית
+					</a>
+				</p>
+			</div>
+		</div>
+	</body>
+	
+	
+</html>

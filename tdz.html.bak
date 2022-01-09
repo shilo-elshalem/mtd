@@ -1,0 +1,56 @@
+<html>
+	<head>
+		<link rel="icon" href="std.png">
+		<link rel="stylesheet" type="text/css" href="עיצוב.css">
+		<title> זרמים בציונות הדתית </title>
+	</head>
+	<body>
+		<div style="
+            height: 900px;
+            background-image: url('https://media.istockphoto.com/photos/motion-blurred-water-stream-picture-id1127157247?k=20&m=1127157247&s=612x612&w=0&h=OVAnX3JC5l9Q2UR7Fg8dcw5EAE_natbpAYtPLABtDPw=') ;
+            background-repeat: repeat-x;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;">
+		<h1> הזרמים בציונות הדתית </h1>
+		<div  style="background-color: rgba(225,225,0,0.5) ";>
+		<p class="עבר"; style="opacity:1; color:black;font-weight: bold;"; >
+		אף על פי שיש הרבה דברים המאחדים את הציונות הדתית יש גם כמה מחלוקות והתפלגויות חשובות בתוך הציונות הדתית: <br>
+			<ul>
+			<li>ישנם חילוקים ברמת ההקפדה על קיום המצוות כאשר אלו שלא מקפידים על קיום כל המצוות נקראים " לייטים".</li> <br>
+			<li>ישנו חילוק בין רמת הקבלה של דעות שונות כאשר אלו שיותר "פתוחים" לדעות שונות נקראים "גושניקים" ואלו שמוכנים לשמוע דעות אחרות אבל ישנם דעות שהם לא מוכנים לקבל נקראים "קווניקים" . </li> <br>
+			<li>ישנו חילוק מסויים ברמת הקדושה שמייחסים למוסדות המדינה והנאמנות להם ,
+			כאשר אלו המקדשים יותר את מוסדות המדינה וחוקיה נקראים "ממלכתים" 
+			(רוב ככול הציונות הדתית "ממלכתית" אבל יש רמות שונות של "ממלכתיות" בציבורים שונים).</li> <br>
+			<li>ישנם רמות שונות של שמירה מפני השפעה תרבותית מהעולם החילוני ויש כאלו המכנים את השומרים יותר "חרד"לניקים" (יש מן השומרים יותר שמתנגדים לכינוי הזה שהוא ראשי תיבות של "חרדי לאומי"). </li> <br>
+			</ul>
+		</p>
+		</div>			
+		<div class="עבר" style="color:red; font-size: 40px";>
+		אז מה עוד ברצונך לדעת על הציונות הדתית?
+		</div>
+		<p style="text-align:center";>
+			<a  class="כג"; href="tdh.html" target="_blank"; style="text-align:center"; "background-color:yellow; ; border="25" >
+				?במה היא שונה מהחרדים
+			</a>
+		</p>
+		<p style="text-align:center";>
+			<a  class="כג"; href="tdmh.html" target="_blank"; style="text-align:center"; "background-color:yellow; ; border="25" >
+			?מהו מסלול חייו הרגיל של ציוני דתי
+			</a>
+		</p>
+		<p style="text-align:center";>
+			<a  class="כג"; href="tdmk.html" target="_blank"; style="text-align:center"; "background-color:yellow; ; border="25" >
+			מושגים קטנים שעושים סדר גדול
+			</a>
+		</p>
+		<p style="text-align:center";>
+			<a  class="כג"; href="mtd.html"  style="text-align:center"; "background-color:yellow; ; border="25" >
+				חזרה לדף הבית
+			</a>
+		</p>
+
+	</body>
+
+
+</html>

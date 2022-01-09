@@ -1,0 +1,56 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="עיצוב.css">
+		<title> ציונות דתית מושגים </title>
+		<link rel="icon" href="std.png">
+	</head>
+	<body>
+		<h1> מושגים קטנים שעושים סדר גדול </h1>
+		<div style="
+            height: 500px;
+            background-image: url('https://media.istockphoto.com/vectors/light-bulb-idea-lamp-outline-icon-vector-vector-id960813498?k=20&m=960813498&s=612x612&w=0&h=QqqU63p6dPQrF6jAGhLxTWltcNEp1CijGqX2whgj3vo=') ;
+            background-repeat: repeat-x;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;">
+		<p>
+		<ul class="עבר">
+		<li> שמירת נגיעה - החיוב לשמור את הנגיעה שלך בנשים רק לאשתך (כמו כן יש גם "שמירת העיניים" ועוד...) .</li>
+		<li> בשרי - המצב שבו אתה נמצא מספר שעות לאחר שאכלת משהו בשרי עד שיהיה מותר לך לאכול חלבי .</li>
+		<li> אבקת חלב נוכרי/חלק - מחלוקות בכשרות שיש כאלה שאסור להם לאכול מה שהוא "אבקת חלב נוכרי" או "אינו חלק".</li>
+		
+		
+		
+		
+		
+		</ul>
+		</p>
+					
+		<div class="עבר" style="color:red; font-size: 40px";>
+		אז מה עוד ברצונך לדעת על הציונות הדתית?
+		</div>
+		<p style="text-align:center";>
+			<a  class="כג"; href="tdh.html" target="_blank"; style="text-align:center"; "background-color:yellow; ; border="25" >
+				?במה היא שונה מהחרדים
+			</a>
+		</p>
+		<p style="text-align:center";>
+			<a  class="כג"; href="tdmh.html" target="_blank"; style="text-align:center"; "background-color:yellow; ; border="25" >
+			?מהו מסלול חייו הרגיל של ציוני דתי
+			</a>
+		</p>
+		<p style="text-align:center";>
+			<a  class="כג"; href="tdz.html" target="_blank"; style="text-align:center"; "background-color:yellow; ; border="25" >
+			על זרמיה של הציונות הדתית
+			</a>
+		</p>
+		<p style="text-align:center";>
+			<a  class="כג"; href="mtd.html"  style="text-align:center"; "background-color:yellow; ; border="25" >
+				חזרה לדף הבית
+			</a>
+		</p>
+	</body>
+
+
+
+</html>
